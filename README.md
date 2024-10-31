@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-mabia2421/mabia2421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mabia/mabia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
